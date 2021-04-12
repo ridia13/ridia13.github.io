@@ -96,8 +96,7 @@ analytics:
 author:
   name             : "Lydia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a **FE developer** dreamer.
-."
+  bio              : "I'm a **FE developer** dreamer."
   location         : #"Somewhere"
   email            :
   links:
